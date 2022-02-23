@@ -1,0 +1,30 @@
+{
+  "name": "desafio-backend-modulo-02-sistema-bancario-t04",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "dependencies": {
+    "date-fns": "^2.26.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikedpsm/desafio-backend-modulo-02-sistema-bancario-t04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikedpsm/desafio-backend-modulo-02-sistema-bancario-t04/issues"
+  },
+  "homepage": "https://github.com/mikedpsm/desafio-backend-modulo-02-sistema-bancario-t04#readme"
+}
