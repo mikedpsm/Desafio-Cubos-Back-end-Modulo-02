@@ -1,8 +1,8 @@
-# Segue projeto desenvolvido no curso de Software Development da Cubos Academy no módulo 2. A proposta é uma API Rest para um banco digital. Funcionalidades implementadas de forma não persistentes.
+Segue projeto desenvolvido no curso de Software Development da Cubos Academy no módulo 2. A proposta é uma API Rest para um banco digital. Funcionalidades implementadas de forma não persistentes.
 
 Have fun!
 
-
+EN-US: Here lies a project developed during the course of software development from Cubos Academy, at module 2. This is an API Rest for a digital bank. Funcionalities implemented in a non persistent way.
 
 ![](https://i.imgur.com/xG74tOh.png)
 
