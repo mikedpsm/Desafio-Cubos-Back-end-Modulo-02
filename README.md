@@ -1,3 +1,9 @@
+# Segue projeto desenvolvido no curso de Software Development da Cubos Academy no módulo 2. A proposta é uma API Rest para um banco digital. Funcionalidades implementadas de forma não persistentes.
+
+Have fun!
+
+
+
 ![](https://i.imgur.com/xG74tOh.png)
 
 # Desafio Módulo 2 - Back-end
